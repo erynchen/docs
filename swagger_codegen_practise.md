@@ -15,7 +15,7 @@
 ![env.png](http://upload-images.jianshu.io/upload_images/210564-acf3222d3acb515c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 system path 里也要设定: 
-![path.png](https://drive.google.com/open?id=1vaoRPADSu4L9RMkcbOPG2cgTTFPcmZqL)
+![path.png](http://upload-images.jianshu.io/upload_images/210564-98b44ff3a9d8398b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 
