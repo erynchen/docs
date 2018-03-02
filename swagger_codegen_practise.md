@@ -36,7 +36,7 @@ CMD 里, 进入之前放jar的文件目录, 运行:
 
 可以看到有一些help信息显示, 这表示准备工作都正确完成了.
 
-![codegen.png](https://www.amazon.ca/clouddrive/share/isofRepRLHTracPZC6A28v5bx6c1adXFjytKLvY0lVo)
+![codegen.png](http://upload-images.jianshu.io/upload_images/210564-2ce2c5ea091b4626.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 
@@ -78,7 +78,7 @@ CMD 里, 进入之前放jar的文件目录, 运行:
 第二个文件是unit test 文件，和主功能无关，但是不修改的话测试没法过不能package 结束： 
 >\modules\swagger-codegen\src\test\java\io\swagger\codegen\DefaultGeneratorTest.java
 
- 把`private static final String MODEL_ORDER_FILE = "/src/main/java/io/swagger/client/model/Order.java";`   改成相应的路径。
+把`private static final String MODEL_ORDER_FILE = "/src/main/java/io/swagger/client/model/Order.java";`   改成相应的路径。
 
 ##### Step3: package
 
