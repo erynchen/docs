@@ -35,7 +35,10 @@ CMD 里, 进入之前放jar的文件目录, 运行:
 > java -jar swagger-codegen-cli-2.3.0.jar help generate
 
 可以看到有一些help信息显示, 这表示准备工作都正确完成了.
-![codegen.png](http://upload-images.jianshu.io/upload_images/210564-76f4acc4a29b8060.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![codegen.png](https://www.amazon.ca/clouddrive/share/isofRepRLHTracPZC6A28v5bx6c1adXFjytKLvY0lVo)
+
+
 
 用来运行 codegen的 基本命令格式如下: 
 
